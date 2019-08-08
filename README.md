@@ -1,0 +1,1 @@
+8 ball. Just ask it a question and see what will your answer be.
